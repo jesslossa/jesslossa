@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jesslossa (Jessica Lossavaro Silva)
 - 👀 I’m interested in Data Engineering, Data Analysis, BI tools, Python, Cloud Computing, SQL
-- 🌱 I’m currently learning PySpark
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jessicalossavaro/), [e-mail](jessicalossa@gmail.com)
 
 <!---
